@@ -1,0 +1,47 @@
+h1{
+	color: red;
+	text-align: right:
+}
+h2{
+	color: red;
+	background-color: green; 
+}
+h3{
+	color: white;
+	background-color: green;	
+}
+.g1{
+	color: red;
+	font-weight: lighter;
+	font-size: 40px;
+}
+.f1{
+	color: red;
+	background-color: yellow;
+}
+.j7{
+	color: white;
+	background-color: gray;
+}
+.j5{
+	background-color: red;
+}
+.ace{
+	background-color: green;
+}
+.l1{
+	color: white;
+	background-color: green;
+}
+.c4{
+	color: white;
+	background-color: black;
+}
+.z{
+	background-color: gray;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+
